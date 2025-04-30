@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 
 ### Register Number : 212223100053  
-### Name : 212223100053
+### Name : SHAIK MAHAMMAD IMRAAN
 
 ## Project: Railway Station Smart Navigation System (RSNS)
 # Problem Statement
